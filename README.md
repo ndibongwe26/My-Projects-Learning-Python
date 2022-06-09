@@ -1,2 +1,1 @@
-# tester
-Testing : Getting started with Github for data science course with IBM 
+This repository will store all the material I will use as I learn to code in Python 
